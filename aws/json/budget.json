@@ -1,9 +1,9 @@
 {
     "BudgetLimit": {
-        "Amount": "100",
+        "Amount": "10",
         "Unit": "USD"
     },
-    "BudgetName": "Example Tag Budget",
+    "BudgetName": "Free AWS Cloud BootCamp Budget",
     "BudgetType": "COST",
     "CostFilters": {
         "TagKeyValue": [
